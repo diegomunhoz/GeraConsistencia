@@ -1,0 +1,10 @@
+               15  FEMPWCFC-E-CCNPJ-FORNC-ANTEC        PIC  9(009).
+               15  FEMPWCFC-E-CFLIAL-FORNC-ANTEC       PIC  9(005).
+               15  FEMPWCFC-E-CCTRL-FORNC-ANTEC        PIC  9(002).
+               15  FEMPWCFC-E-CCNPJ-PGDOR-ANTEC        PIC  9(009).
+               15  FEMPWCFC-E-CFLIAL-CNPJ-PGDOR        PIC  9(005).
+               15  FEMPWCFC-E-CCTRL-CNPJ-PGDOR         PIC  9(002).
+               15  FEMPWCFC-E-DT-VCTO-INI              PIC  X(010).
+               15  FEMPWCFC-E-DT-VCTO-FIM              PIC  X(010).
+               15  FEMPWCFC-E-RNOTA-CLI                PIC  X(017).
+               15  FEMPWCFC-E-CSIT-CPMIS               PIC  9(001).
